@@ -1,3 +1,7 @@
+# Steven Chu Loves Bacon
+
+A simple web application built on top of Google's App Engine platform. The purpose of this project was to better understand how data on the Internet moves and behaves. All the sections below come standard with this particular implementation of App Engine. In particular, this project is built with Flask, a lightweight Python framework for building web applications.
+
 ## Python Flask Skeleton for Google App Engine
 
 A skeleton for building Python applications on Google App Engine with the
